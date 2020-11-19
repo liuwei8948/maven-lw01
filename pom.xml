@@ -11,6 +11,7 @@
         <module>javacode2020-first</module>
         <module>javacode2020-second</module>
         <module>javacode2020-three</module>
+        <module>javacode2020-four</module>
     </modules>
     <packaging>pom</packaging>
 </project>
