@@ -5,12 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.javacode2020</groupId>
-    <artifactId>maven-lw01</artifactId>
+    <artifactId>javacode2020-second</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>javacode2020-first</module>
-        <module>javacode2020-second</module>
-        <module>javacode2020-three</module>
-    </modules>
-    <packaging>pom</packaging>
+
+
 </project>
